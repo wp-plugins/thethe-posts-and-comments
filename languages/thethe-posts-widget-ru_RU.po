@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TheThe Captcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ default
+#: inc/inc.sidebar.donate.php:3
+#: inc/inc.sidebar.help.php:3
+#: inc/inc.sidebar.newsletter.php:10
+#: inc/inc.sidebar.themes.php:4
+#: inc/inc.sidebar.thethe-help.php:3
+msgid "Click to toggle"
+msgstr "Кликните чтобы открыть"
+
+#@ thethefly
+#: lib/lib.plugin.php:150
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Возникла  ошибка,  скорее  всего,  канал вещания не работает. Попробуйте позже."
+
+#@ thethe-layout-grid
+#: inc/inc.submit-buttons.php:3
+msgid "Update Settings"
+msgstr "Сохранить настройки"
+
+#@ thethe-layout-grid
+#: inc/inc.submit-buttons.php:4
+msgid "Reset To Defaults"
+msgstr "Восстановить первоначальные настройки"
+
+#@ default
+#: lib/lib.plugin.php:259
+msgid "Settings"
+msgstr ""
+
+#@ default
+#: lib/lib.plugin.php:260
+msgid "Support"
+msgstr ""
+
+#@ default
+#: lib/lib.plugin.php:261
+msgid "Themes"
+msgstr ""
+
+#@ default
+#: lib/lib.plugin.php:262
+msgid "Tips & Tricks"
+msgstr ""
+
+#@ default
+#: lib/lib.plugin.php:263
+msgid "Donate"
+msgstr ""
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:6
+msgid "All Settings"
+msgstr "Все параметры"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:14
+#: lib/class.layout-grid.php:130
+#: lib/class.layout-grid.php:230
+msgid "Enable Vertical"
+msgstr "Включить вертикали"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:19
+#: lib/class.layout-grid.php:131
+#: lib/class.layout-grid.php:235
+msgid "Enable Horizontal"
+msgstr "Включить горизонтали"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:24
+#: lib/class.layout-grid.php:132
+#: lib/class.layout-grid.php:240
+msgid "Center Grid"
+msgstr "Центрировать сетку"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:31
+#: lib/class.layout-grid.php:120
+#: lib/class.layout-grid.php:245
+msgid "Horizontal"
+msgstr "Горизонтали"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:34
+#: inc/view.settings.php:79
+#: lib/class.layout-grid.php:109
+#: lib/class.layout-grid.php:122
+#: lib/class.layout-grid.php:248
+#: lib/class.layout-grid.php:292
+msgid "Color"
+msgstr "Цвет"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:39
+#: inc/view.settings.php:84
+#: lib/class.layout-grid.php:110
+#: lib/class.layout-grid.php:123
+#: lib/class.layout-grid.php:253
+#: lib/class.layout-grid.php:297
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:44
+#: lib/class.layout-grid.php:124
+#: lib/class.layout-grid.php:258
+msgid "Height"
+msgstr "Высота"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:49
+#: lib/class.layout-grid.php:125
+#: lib/class.layout-grid.php:263
+msgid "Offset"
+msgstr "Сдвиг"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:56
+#: lib/class.layout-grid.php:87
+#: lib/class.layout-grid.php:268
+msgid "Vertical"
+msgstr "Вертикали"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:89
+#: lib/class.layout-grid.php:111
+#: lib/class.layout-grid.php:302
+msgid "Margin"
+msgstr "Отступ"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:94
+#: lib/class.layout-grid.php:112
+#: lib/class.layout-grid.php:307
+msgid "Gutter"
+msgstr "Канавка"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:99
+#: lib/class.layout-grid.php:113
+#: lib/class.layout-grid.php:312
+msgid "Column Width"
+msgstr "Ширина колонки"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:104
+#: lib/class.layout-grid.php:114
+#: lib/class.layout-grid.php:317
+msgid "Column Number"
+msgstr "Количество колонок"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:109
+#: lib/class.layout-grid.php:115
+#: lib/class.layout-grid.php:322
+msgid "Content Width"
+msgstr "Используемая ширина"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:114
+#: lib/class.layout-grid.php:116
+#: lib/class.layout-grid.php:326
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#@ thethe-layout-grid
+#: lib/class.layout-grid.php:85
+msgid "Universal Layout Grid Generator"
+msgstr "Генератор структурных сеток"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:59
+#: lib/class.layout-grid.php:90
+#: lib/class.layout-grid.php:271
+msgid "Popular Grids"
+msgstr "Популярные сетки"
+
+#@ thethefly
+#: lib/lib.plugin.php:146
+msgid "<li>Unfortunately the news channel is temporarily closed</li>"
+msgstr ""
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:9
+#: lib/class.layout-grid.php:225
+msgid "Enable Layout Grid Script"
+msgstr "Включить скрипт"
+
+#@ thethe-layout-grid
+#: inc/view.overview.php:3
+msgid "<strong>TheThe  Layout  Grid  WordPress  plugin</strong> allows you to display either a standard 960px, 1200px grid or your custom one of any size and configuration over any of your WP page to help you structure and design layouts. You can even create different grids for different pages."
+msgstr "<strong>TheThe   Layout   Grid   WordPress   плагин</strong> позволяет  вам  выводить  любую  стандартную сетку шириной 960 или 1200 пикселов  или  сетку любой ширины и конфигурации поверх любой страницы вашего  WordPress  сайта помогая вам структурировать содержания вашего сайта. Вы даже можете выводить разные сетки на разных страницах сайта."
+
+#@ thethe-layout-grid
+#: inc/view.overview.php:5
+msgid "This plugin was created for WP themes designers who love 960px grid system offered by Nathan Smith but want to move forward to keep the modern tendencies of the current Web industry. Or simply for those who love the system but want to be different."
+msgstr "Этот  плагин  создан  для  тех дизайнеров WordPress тем, кому нравится  960  система  сеток, предложенная Натаном Смитом и кто хочет развивать  её  дальше  следуя  последним тенденциям Web индустрии. Или просто  для  тех,  кому  нравится  идея  сеток,  но  он  всё  же хочет отличаться от других."
+
+#@ thethe-layout-grid
+#: inc/view.overview.php:8
+msgid "With our grids, side margins are no longer calculated as a half of a gutter. You can specify them as well as other parameters what adds even more flexibility to our universal layout grid system."
+msgstr "Для   сеток,   генерируемых   нашим   плагином,   отступ  не привязывается  к  ширине канавки. Вы можете  задавать любой отступ, что делает нашу универсальную систему сеток более гибкой."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:11
+msgid "Check this checkbox to activate the script on your site."
+msgstr "Активируйте этот чекбокс, для активации скрипта LayoutGrid на вашем сайте."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:16
+msgid "Check this checkbox to display grid columns."
+msgstr "Актвируйте этот чекбокс, для включения столбцов."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:21
+msgid "Check this checkbox to dispaly horizontal lines."
+msgstr "Актвируйте этот чекбокс, для включения горизонтальных линий."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:26
+msgid "Check this checkbox to to center the grid."
+msgstr "Актвируйте этот чекбокс, для центрирования сетки."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:36
+msgid "Choose a color for horizontal lines."
+msgstr "Выберите цвет горизонтальных линий сетки."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:41
+msgid "Choose opacity of the horizontal lines."
+msgstr "Укажите прозрачность горизонтальных линий сетки."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:46
+msgid "Specify the size between horizontal lines."
+msgstr "Укажите расстояние (шаг) между горизонтальными линиями сетки."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:51
+msgid "Specify the offset (margin) from the top for the content."
+msgstr "Укажите первоночальный отступ для верхней границы контента у горизонтальных линий."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:77
+msgid "Choose a pre-designed grid specification from the list."
+msgstr "Выберите из списка необходимый шаблон сетки."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:81
+msgid "Select a color for columns."
+msgstr "Выберите цвет вертикальных столбцов."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:86
+msgid "Choose opacity for columns."
+msgstr "Укажите прозрачность вертикальных столбцов."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:91
+msgid "Specify the margin from the left/right in pexels."
+msgstr "Укажите ширину отступов (margin) слева и справа."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:96
+msgid "Cpecify the gutter between grid columns."
+msgstr "Укажите расстояние между столбцами."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:101
+msgid "Specify the grid columns width in pixels."
+msgstr "Укажите ширину вертикальных столбцов."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:106
+msgid "Specify the number of grid columns."
+msgstr "Укажите количество вертикальных столбцов."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:111
+msgid "Specify the content width in pixels."
+msgstr "Укажите используемую ширину."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:116
+msgid "Specify the full width in pixels."
+msgstr "Укажите полную ширину сетки."
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:119
+msgid "Grid Activating URL Parameters"
+msgstr "URL параметры Grid"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:130
+msgid "Copy to clipboard"
+msgstr "Копировать в буфер обмена"
+
+#@ thethe-layout-grid
+#: inc/view.settings.php:131
+msgid "Copy the code and uppend it to your page URL using \"&\" or \"?\" to activate this grid on that page."
+msgstr "Скопируйте код и добавьте его в свой адрес страницы с помощью  \\\"&\\\" или  \\\"?\\\", Чтобы активировать эту сетку на необходимой странице."
+
+#@ thethe-layout-grid
+#: lib/class.layout-grid.php:201
+#: lib/class.layout-grid.php:202
+msgid "TheThe Layout Grid Settings"
+msgstr ""
+
